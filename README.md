@@ -1,0 +1,2 @@
+# openNN
+hopfield net code
